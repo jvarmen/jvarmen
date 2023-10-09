@@ -1,5 +1,3 @@
-<img src="programming.gif" width=200/>
-
 # Jaiver Vargas 👾
 I'm Jaiver from Medellín, Colombia and currently studying computer science. The most part of the rest of my time I enjoy contributing to open-source-projects or working on own ones.
 
