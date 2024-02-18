@@ -13,7 +13,6 @@ I'm Jaiver from Medellín, Colombia and currently studying computer science. The
 
 
 ## What I'm currently working on / learning
-* Usage of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=16 height=16/> Lit and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width=16 height=16/> Storybook for web components
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width=16 height=16/> Go development
 * 📱 Mobile Development with Flutter / Dart
 
